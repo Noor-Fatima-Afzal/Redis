@@ -1,0 +1,6 @@
+langchain>=0.0.200
+langchain-groq
+python-docx
+redis
+requests
+sentence-transformers
